@@ -63,3 +63,23 @@
   1. Diplom
 
 - Pfuscher: Handwerker, die außer der Zunfsystem arbeiten
+
+- Regelungen:
+
+  - Qualität regeln
+  - Kein Wettbewerb zwischen Zünfte
+    - Überproduction vermeiden
+  - 1 Werkstatt - 1 Zunfmeister
+  - Arbeitstag: Von Sonnenaufgang bis Sonnenuntergang
+
+- Zünfte vs. Manufakture
+  - Manufakture:
+    - Quantität > Qualität
+    - Ur-Unfallkrankenversicherung
+    
+## Fernhandel
+
+|                 | Levante                               | Hansa                                               |
+| --------------- | ------------------------------------- | --------------------------------------------------- |
+| Wo?             | Mittelmeerraum, W-Eur. \<--> Nahe Ost | N-, O- Eur. \<--> W-Eur.                            |
+| Beispielstädten | Lissabon, Venedig                     | Danzig/Gdansk, Rostock, Brehmen, Hamburg, Amsterdam |
