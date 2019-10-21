@@ -74,9 +74,10 @@
 
 - Zünfte vs. Manufakture
   - Manufakture:
+
     - Quantität > Qualität
     - Ur-Unfallkrankenversicherung
-    
+
 ## Fernhandel
 
 |                 | Levante                               | Hansa                                               |
