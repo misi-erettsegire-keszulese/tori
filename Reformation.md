@@ -17,6 +17,12 @@
     - sola Gratia - Gotte Gnade + Glaube = Rechtfertigung
     - sola scriptura - Übersetzung der Bibel
 
+## Augsburger Religionsfrieden
+
+- Worms, 1521: Luther von Kirche verbannt -> Er untersetzt die Bibel
+- Speyer, 1529: Fürsten protestieren
+- Augsburg, 1555: cuius regio eius religio
+
 ## Calvin
 
 - Wichtigste Werk: Institutio
@@ -25,6 +31,12 @@
     - Prädestinationslehre: Unser Schicksal is vorher von Gott bestimmt wurde
     - Tyrannenmordlehre: Gesellschaften sind von Unter zu organisieren
         - einfache Kirche (ohne große Hierarchie)
+
+## Lehre von Servet
+
+- Auch: Anti-Trinitarier, Unitarier
+- Ablehnung der Dreifaltigkeit
+- Populär in Siebenbürgen
 
 ## Gegenreformation
 
