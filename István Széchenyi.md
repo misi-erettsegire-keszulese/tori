@@ -4,6 +4,7 @@
 
 - Geboren in Wien, 1791
   - Fater: gróf Széchényi Ferenc - gründer der Ungarnische Nationalmuseum 
+- Familie in Nähe der Hof
 - Kindheit in Nagycenk
 
 ## Freundschaft mit Wesselényi
