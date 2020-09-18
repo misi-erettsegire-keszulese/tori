@@ -61,14 +61,11 @@
 
 ### Unterschiede bei die Methode
 
-- Széchenyi: der Herrscher und die Großadel gewinnen
-- Kossuth: der Gemeinadel und Bauerschicht
-
-- Sz: erstmal wirtchaftliche Reformen
-- K: erstmal politische Reformen
-
-- Sz: keine/minimale Konflikte mit der Herrscher
-- K: nahm Konflikte an
+| Széchenyi | Kossuth |
+| --- | --- |
+| der Herrscher und die Großadel gewinnen | der Gemeinadel und Bauerschicht |
+| erstmal wirtchaftliche Reformen | erstmal politische Reformen | 
+| keine/minimale Konflikte mit der Herrscher | nahm Konflikte an |
 
 - Sz dachte, dass die radikale Benehmung von K zu gefährlich wären -> Herrscher ziehen die reformen zurück
   - Sz: *isolation* -> K war der Leiter der Opposition
